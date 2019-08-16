@@ -1,0 +1,16 @@
+ModKoneksi = 0, 0, 0, 0, C
+frmLogin = 66, 51, 728, 394, , 0, 0, 607, 343, C
+frmJenis = 0, 0, 0, 0, C, 100, 100, 674, 443, C
+frmSplash = 0, 0, 0, 0, C, 50, 50, 657, 393, C
+MDIMenu = 125, 125, 699, 468, C, 100, 100, 674, 443, C
+DataEnvironment1 = 0, 0, 0, 0, C, -45, -7, 744, 524, C
+CrystalReport1 = 100, 100, 769, 443, C, 25, 25, 853, 556, C
+frmLaporanStok = 75, 75, 633, 418, C, 50, 50, 608, 393, C
+CrystalReport2 = 75, 75, 649, 418, C, 0, 0, 740, 531, C
+frmLapPembelian = 50, 50, 624, 393, C, 25, 25, 599, 368, C
+CrystalReport3 = 100, 100, 765, 443, C, 25, 25, 941, 556, C
+frmLaPenjualan = 75, 75, 649, 418, , 50, 50, 624, 393, C
+frmObat = 0, 0, 0, 0, C, 75, 75, 682, 418, C
+frmSupplier = 0, 0, 0, 0, C, 100, 100, 707, 443, C
+frmJual = 0, 0, 0, 0, C, 50, 50, 712, 393, C
+frmPembelian = 75, 75, 737, 418, , 31, 29, 693, 372, C
